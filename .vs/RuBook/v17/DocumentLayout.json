@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RuBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E27D59F1-9BF1-4ED1-B425-89A08C10918D}|rubook-backend\\rubook-backend.csproj|c:\\rubook\\rubook-backend\\rubook-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E27D59F1-9BF1-4ED1-B425-89A08C10918D}|rubook-backend\\rubook-backend.csproj|solutionrelative:rubook-backend\\rubook-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rubook-backend.csproj",
+              "DocumentMoniker": "C:\\RuBook\\rubook-backend\\rubook-backend.csproj",
+              "RelativeDocumentMoniker": "rubook-backend\\rubook-backend.csproj",
+              "ToolTip": "C:\\RuBook\\rubook-backend\\rubook-backend.csproj*",
+              "RelativeToolTip": "rubook-backend\\rubook-backend.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-13T06:47:21.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
