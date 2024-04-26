@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3W5tvCqdTFxNdNECFGaY+8het8EWoKgezD2gMlQGDA766o5/KsclmAJEQcdC0LuTvnpOByaXTqYZQNX5YhqDAw==",
+  "dgSpecHash": "dXH/CEQiiNPMSMOnlE7ANyArcY126HSAaOYoXVjwQmI778eiFpIjQlRaBQcNI6cV24pgG4j/dgn0kE9fFqvlGg==",
   "success": true,
-  "projectFilePath": "C:\\RuBook\\rubook-backend\\rubook-backend.csproj",
+  "projectFilePath": "C:\\Users\\Vsevolod\\Documents\\RYBOR\\RuBook\\rubook-backend\\rubook-backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vsevolod\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Vsevolod\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
