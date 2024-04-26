@@ -26,8 +26,10 @@ pip install pytest
 Запуск
 
 ```bash
-pytest -s --alluredir allure-results mazila.py
+pytest -s --alluredir allure-results main.py
 ```
 ```bash
 allure serve allure-results
 ```
+
+![image](https://github.com/VsevolodYatsuk/RuBook/assets/130091517/d09ac8e0-56e9-481e-b0ff-62328c11c49b)
